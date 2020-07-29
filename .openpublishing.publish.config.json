@@ -54,7 +54,7 @@
     },
     {
       "path_to_root": "_repo.en-us",
-      "url": "https://github.com/OPS-E2E-PPE/xamarin-docs-pr",
+      "url": "https://github.com/mingwli/xamarin-docs-pr",
       "branch": "live",
       "branch_mapping": {
         "live": "live",
